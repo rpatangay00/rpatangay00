@@ -1,5 +1,5 @@
 # 💫 Hi I'm Rikita! 
-Junior Developer (Developer, Musician, Editor)<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available on this GitHub https://github.com/rpatangay00<br><img align ="right" alt="coding" width="300" src="https://media1.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif?cid=ecf05e47bc22tzh7fe79x0ksbotyt2i4h30xbsxcv1dmgsvu&ep=v1_gifs_search&rid=giphy.gif&ct=g"><br>💬 Ask me about any projects and languages I am working on<br><br>📫 How to reach me rikitapatangay@gmail.com<br><br>⚡ Fun fact I know how to play 4 instruments!
+Junior Developer (Developer, Musician, Editor)<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available on this GitHub https://github.com/rpatangay00<br><img align ="right" alt="coding" width="400" src="https://media1.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif?cid=ecf05e47bc22tzh7fe79x0ksbotyt2i4h30xbsxcv1dmgsvu&ep=v1_gifs_search&rid=giphy.gif&ct=g"><br>💬 Ask me about any projects and languages I am working on<br><br>📫 How to reach me rikitapatangay@gmail.com<br><br>⚡ Fun fact I know how to play 4 instruments!
 
 
 
