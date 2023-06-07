@@ -5,7 +5,7 @@
 <img align ="left" alt="coding" width="35" src="https://github.com/rpatangay00/LogosAndPics/blob/feb158e5e4e34903ea6ece4c1c7a3ea415d175c9/Daco_5186041.png">
 Recent B.S Computer Science Graduate from The University of Texas at Dallas 
 
-<img align ="right" alt="coding" width="600" src="https://github.com/rpatangay00/LogosAndPics/blob/873d7e9a818f676770daa39d97f7a72c85cc20f4/Y3il.gif">
+<img align ="right" alt="coding" width="300" src="https://github.com/rpatangay00/LogosAndPics/blob/873d7e9a818f676770daa39d97f7a72c85cc20f4/Y3il.gif">
 
 <br><br>
 
