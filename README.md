@@ -2,7 +2,7 @@
 
 # 💫 Hi I'm Rikita! 
 
-<img align ="left" alt="coding" width="100" src="https://github.com/rpatangay00/LogosAndPics/blob/feb158e5e4e34903ea6ece4c1c7a3ea415d175c9/Daco_5186041.png">
+<img align ="left" alt="coding" width="50" src="https://github.com/rpatangay00/LogosAndPics/blob/feb158e5e4e34903ea6ece4c1c7a3ea415d175c9/Daco_5186041.png">
 Recent B.S Computer Science Graduate from The University of Texas at Dallas 
 
 
