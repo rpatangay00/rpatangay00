@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=rpatangay00&icon=0&color=5)](https://visitcount.itsvg.in)
+
 # 💫 Hi I'm Rikita! 
 Recent B.S Computer Science Graduate from The University of Texas at Dallas
 
@@ -15,6 +17,6 @@ Junior Developer (Developer, Musician, Editor)<br><br>🌱 I’m currently learn
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rpatangay00&icon=0&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
