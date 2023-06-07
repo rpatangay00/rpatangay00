@@ -2,18 +2,14 @@
 
 # 💫 Hi I'm Rikita! 
 
-<img align ="left" alt="coding" width="50" src="https://github.com/rpatangay00/LogosAndPics/blob/feb158e5e4e34903ea6ece4c1c7a3ea415d175c9/Daco_5186041.png">
-Recent B.S Computer Science Graduate from The University of Texas at Dallas 
-
-
 <br><br>
 
 
-
-
 ## Junior Developer (Developer, Musician, Editor)<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available on this GitHub https://github.com/rpatangay00<br><br>💬 Ask me about any projects and languages I am working on<br><br>📫 How to reach me rikitapatangay@gmail.com<br><br>⚡ Fun fact I know how to play 4 instruments!
+<br><br>
 
-
+<img align ="left" alt="coding" width="50" src="https://github.com/rpatangay00/LogosAndPics/blob/feb158e5e4e34903ea6ece4c1c7a3ea415d175c9/Daco_5186041.png">
+Recent B.S Computer Science Graduate from The University of Texas at Dallas 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikita-patangay-5a4440158/) 
