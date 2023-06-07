@@ -10,7 +10,9 @@ Recent B.S Computer Science Graduate from The University of Texas at Dallas
 <br><br>
 
 
-## Junior Developer (Developer, Musician, Editor)<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available on this GitHub https://github.com/rpatangay00<br><br>💬 Ask me about any projects and languages I am working on<br><br>📫 How to reach me rikitapatangay@gmail.com<br><br>⚡ Fun fact I know how to play 4 instruments!
+## Junior Developer (Developer, Musician, Editor)
+
+<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available on this GitHub https://github.com/rpatangay00<br><br>💬 Ask me about any projects and languages I am working on<br><br>📫 How to reach me rikitapatangay@gmail.com<br><br>⚡ Fun fact I know how to play 4 instruments!
 
 
 
