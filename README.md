@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=rpatangay00&icon=0&color=5)](https://visitcount.itsvg.in)
 
 # 💫 Hi I'm Rikita! 
-# Most Recent [Resume](https://github.com/rpatangay00/Resume/blob/f5fd9b1486e06a18629cfdcd313607a498f0ca75/RikitaPatangayResume.pdf)
+# Most Recent [Resume](https://github.com/rpatangay00/Resume/blob/53b26359aaf4c3780623ca5c1172904bd3fd038c/Rikita_Patangay_Resume.pdf)
 
 <img align ="left" alt="coding" width="35" src="https://github.com/rpatangay00/LogosAndPics/blob/feb158e5e4e34903ea6ece4c1c7a3ea415d175c9/Daco_5186041.png">
 Bachelors of Science Computer Science Graduate from The University of Texas at Dallas 
