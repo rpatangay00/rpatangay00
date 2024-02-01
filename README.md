@@ -19,7 +19,7 @@ Bachelors of Science Computer Science Graduate from The University of Texas at D
 <br><br>
 
 # 🌐 LinkedIn (Click Below):
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikita-patangay-5a4440158/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikita-patangay-5a4440158/) 
 
 
 <br><br>
